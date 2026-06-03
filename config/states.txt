@@ -1,0 +1,16 @@
+[PAD]
+[MASK]
+[UNK]
+raw
+ground
+mashed
+crushed
+squeezed
+stock
+puree
+glaze
+consomme
+clarified
+powder
+nib
+
