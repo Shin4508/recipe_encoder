@@ -1,0 +1,20 @@
+[
+  {
+    "recipe_name": "duck_orange",
+    "ingredients": [
+      {"name": "duck", "state": "roast"},
+      {"name": "orange", "state": "squeezed"},
+      {"name": "grand_marnier", "state": "powder"},
+      {"name": "butter", "state": "clarified"}
+    ]
+  },
+  {
+    "recipe_name": "beef_stock_reduction",
+    "ingredients": [
+      {"name": "beef_bone", "state": "crushed"},
+      {"name": "mirepoix", "state": "ground"},
+      {"name": "red_wine", "state": "glaze"},
+      {"name": "water", "state": "stock"}
+    ]
+  }
+]
