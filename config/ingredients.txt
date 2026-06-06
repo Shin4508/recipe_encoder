@@ -47,7 +47,6 @@ soy_sauce
 balsamic_vinegar
 cacao
 parsley_root
-chervil
 dill
 swimming_crab
 rapini
@@ -61,7 +60,6 @@ beets
 duck
 oyster
 salmon
-avocado
 cream_cheese
 nori
 apple
